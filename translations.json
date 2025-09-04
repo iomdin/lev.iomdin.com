@@ -2,15 +2,11 @@
     "en": {
         "titleBrowser": "Lev Iomdin",
         "titleText": "Lev Iomdin",
-        "aboutTitle": "About",
         "aboutExplanation": "Lev Iomdin is a famous violinist."
-        
     },
-
     "ru": {
         "titleBrowser": "Лев Иомдин",
         "titleText": "Лев Иомдин",
-        "aboutTitle": "О нём",
         "aboutExplanation": "Лев Иомдин — известный скрипач."
     }
 }
